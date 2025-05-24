@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Cool GIF](./tải%20xuống.gif)
 
 <!--
 **Platypus27-coder/Platypus27-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
