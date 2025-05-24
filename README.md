@@ -1,4 +1,4 @@
-## Hi there! I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS). I enjoy working on fun projects. This GitHub is where I share what I’m learning and building along the way. Have a nice day!
+## Hi I'm Gia Huy, I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS) !
 ![Cool GIF](./tải%20xuống.gif)
 
 <!--
