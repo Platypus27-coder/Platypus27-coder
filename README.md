@@ -1,5 +1,5 @@
 ## Hi I'm Gia Huy, I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS) !
-![Cool GIF](./tải%20xuống.gif)
+![Cool GIF](./code.gif)
 
 <!--
 **Platypus27-coder/Platypus27-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
