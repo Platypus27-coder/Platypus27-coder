@@ -2,7 +2,7 @@
 I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS)!  
 
 ![Coding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdyamgwOWZmYWxiNWp6b2Y1anVtdWJkbHp1NDV2cmgxc2ppZ3htZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif)
-![pacman animation](https://raw.githubusercontent.com/<username>/<repo>/main/pacman.svg)
+
 
 
 
