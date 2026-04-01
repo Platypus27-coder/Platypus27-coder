@@ -7,18 +7,12 @@
 
 ---
 
-##  About Me
-- I'm currently studying **Data Science** at **HCMUS**
+## Hi, I'm Gia Huy!  
+- I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS)!  
 - I’m currently learning **Machine Learning, Deep Learning, and Data Engineering**
 - I enjoy working with **Python, SQL, Data Analysis, and AI applications**
 - My goal is to become a strong **AI Engineer / Data Scientist**
 - Reach me at: **giahuy270306@gmail.com**
-
----
-
-## Hi, I'm Gia Huy!  
-I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS)!  
-
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdyamgwOWZmYWxiNWp6b2Y1anVtdWJkbHp1NDV2cmgxc2ppZ3htZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" width="320" alt="Coding GIF" />
 </p>
