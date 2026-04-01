@@ -5,10 +5,6 @@
   Passionate about AI, Machine Learning, Data Science, and building useful things with code.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Platypus27-coder&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ##  About Me
@@ -30,11 +26,6 @@ I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Platypus27-coder&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Platypus27-coder&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Platypus27-coder&theme=tokyonight&hide_border=true" />
 </p>
