@@ -11,12 +11,12 @@
 
 ---
 
-## 🙋 About Me
-- 🎓 I'm currently studying **Data Science** at **HCMUS**
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Data Engineering**
-- 💻 I enjoy working with **Python, SQL, Data Analysis, and AI applications**
-- 🚀 My goal is to become a strong **AI Engineer / Data Scientist**
-- 📫 Reach me at: **giahuy270306@gmail.com**
+##  About Me
+- I'm currently studying **Data Science** at **HCMUS**
+- I’m currently learning **Machine Learning, Deep Learning, and Data Engineering**
+- I enjoy working with **Python, SQL, Data Analysis, and AI applications**
+- My goal is to become a strong **AI Engineer / Data Scientist**
+- Reach me at: **giahuy270306@gmail.com**
 
 ---
 
@@ -36,7 +36,7 @@ I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Platypus27-coder&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
