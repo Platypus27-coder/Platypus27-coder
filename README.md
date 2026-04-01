@@ -7,7 +7,7 @@
 
 ---
 
-## Hi, I'm Gia Huy!  
+## 
 - I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS)!  
 - I’m currently learning **Machine Learning, Deep Learning, and Data Engineering**
 - I enjoy working with **Python, SQL, Data Analysis, and AI applications**
