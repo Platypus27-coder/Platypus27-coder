@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Gia Huy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-- I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS)!  
-- I’m currently learning **Machine Learning, Deep Learning, and Data Engineering**
-- I enjoy working with **Python, SQL, Data Analysis, and AI applications**
-- My goal is to become a strong **AI Engineer / Data Scientist**
-- Reach me at: **giahuy270306@gmail.com**
+I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS)!  
+I’m currently learning **Machine Learning, Deep Learning, and Data Engineering**
+I enjoy working with **Python, SQL, Data Analysis, and AI applications**
+My goal is to become a strong **AI Engineer / Data Scientist**
+Reach me at: **giahuy270306@gmail.com**
 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdyamgwOWZmYWxiNWp6b2Y1anVtdWJkbHp1NDV2cmgxc2ppZ3htZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" width="320" alt="Coding GIF" />
 </p
@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 </p>
 
 ---
