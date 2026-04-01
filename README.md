@@ -1,13 +1,6 @@
 <h1 align="center">Hi, I'm Gia Huy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <b>Data Science Student at the University of Science, VNU-HCM (HCMUS)</b><br>
-  Passionate about AI, Machine Learning, Data Science, and building useful things with code.
-</p>
-
----
-
-## 
 - I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS)!  
 - I’m currently learning **Machine Learning, Deep Learning, and Data Engineering**
 - I enjoy working with **Python, SQL, Data Analysis, and AI applications**
@@ -15,6 +8,7 @@
 - Reach me at: **giahuy270306@gmail.com**
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdyamgwOWZmYWxiNWp6b2Y1anVtdWJkbHp1NDV2cmgxc2ppZ3htZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" width="320" alt="Coding GIF" />
+</p
 </p>
 
 ---
