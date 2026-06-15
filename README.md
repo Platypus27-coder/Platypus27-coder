@@ -6,7 +6,7 @@
  - My goal is to become a strong **AI Engineer / Data Scientist**
  - Reach me at: **giahuy270306@gmail.com**
    
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NnOTVpbW1ndWhyejN3Ym1pOXJ2bzAxcmpxdHlhbGxmbjAxeTI3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NnOTVpbW1ndWhyejN3Ym1pOXJ2bzAxcmpxdHlhbGxmbjAxeTI3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="1000" height="300">
 </p
 </p>
 
