@@ -5,8 +5,9 @@
  - I enjoy working with **Python, SQL, Data Analysis, and AI applications**
  - My goal is to become a strong **AI Engineer / Data Scientist**
  - Reach me at: **giahuy270306@gmail.com**
-   
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZkdG10MzViN2xla2MwZGJxcWN0Zm1jaG91aHpmN25sM211YjEyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif" width="800" height="600">
+<p align="center">
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZkdG10MzViN2xla2MwZGJxcWN0Zm1jaG91aHpmN25sM211YjEyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif" width="800" height="600">
+</p>
 </p
 </p>
 
