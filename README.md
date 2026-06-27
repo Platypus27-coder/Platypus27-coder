@@ -4,7 +4,6 @@
  - I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS)!  
  - I enjoy working with **Python, SQL, Data Analysis, and AI applications**
  - My goal is to become a strong **AI Engineer / Data Scientist**
- - Reach me at: **giahuy270306@gmail.com**
 <p align="center">
    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAyeWlxdThmeGpsZ2NpMTVrMjRjdTBoM3J5MXY0dXllbGQ3aTBwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif" width="800" height="600">
 </p>
