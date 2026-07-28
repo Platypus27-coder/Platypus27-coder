@@ -2,7 +2,6 @@
 
 ## About me
  - I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS)!  
- - I enjoy working with **Python, SQL, Data Analysis, and AI applications**
  - My goal is to become a strong **AI Engineer / Data Scientist**
 <p align="center">
    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHh4cmQxeTlnYXZlaGZucjR3emFyMHg5Ymoya2l1NDcyMDFsNmUzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jj1xut6ZsokKI/giphy.gif" width="900" height="400">
