@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Gia Huy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## About me
- - I'm currently studying Data Science at the University of Science, VNU-HCM (HCMUS)!  
  - My goal is to become a strong **AI Engineer / Data Scientist**
 <p align="center">
    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHh4cmQxeTlnYXZlaGZucjR3emFyMHg5Ymoya2l1NDcyMDFsNmUzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jj1xut6ZsokKI/giphy.gif" width="900" height="400">
