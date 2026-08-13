@@ -3,7 +3,7 @@
 ## About me
  - My goal is to become a strong **AI Engineer / Data Scientist**
 <p align="center">
-   <img src="https://giphy.com/gifs/BoxOfficetr-marvel-spiderman-gif-dJo9h2zrdANo1GO3pd" width="900" height="400">
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhxeHR6NjN1NTJnNHJvMWg1eWNwcWJ2OWsyOWd4bjVreW9reGltcSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/dJo9h2zrdANo1GO3pd/giphy.gif" width="900" height="400">
 </p>
 </p
 </p>
