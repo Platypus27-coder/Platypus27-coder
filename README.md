@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Gia Huy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## About me
- - My goal is to become a strong **AI Engineer / Data Scientist**
 <p align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhxeHR6NjN1NTJnNHJvMWg1eWNwcWJ2OWsyOWd4bjVreW9reGltcSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/dJo9h2zrdANo1GO3pd/giphy.gif" width="900" height="400">
 </p>
