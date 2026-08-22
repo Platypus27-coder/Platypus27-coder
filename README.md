@@ -62,14 +62,6 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
-
----
-
-## ✨ Fun Quote
-<p align="center">
-  <i>"Keep learning, keep building, and let the data speak."</i>
-</p>
-
 <!--
 **Platypus27-coder/Platypus27-coder** is a special repository because its README.md appears on your GitHub profile.
 -->
