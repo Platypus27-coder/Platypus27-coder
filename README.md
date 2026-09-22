@@ -6,6 +6,46 @@
 </p
 </p>
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img width="100%"
+src="https://github-readme-stats.vercel.app/api?username=Platypus27-coder&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=38BDAE"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<img width="100%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Platypus27-coder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=38BDAE"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+# 📈 Contribution Overview
+
+<div align="center">
+
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Platypus27-coder&theme=tokyonight"/>
+
+<br><br>
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Platypus27-coder&bg_color=0D1117&color=38BDAE&line=BF91F3&point=70A5FD&area=true&area_color=BF91F3&hide_border=true"/>
+
+</div>
+
 ## 🛠 Tech Stack
 
 ### Programming Languages
