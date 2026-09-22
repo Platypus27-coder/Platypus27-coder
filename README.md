@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gia Huy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhxeHR6NjN1NTJnNHJvMWg1eWNwcWJ2OWsyOWd4bjVreW9reGltcSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/dJo9h2zrdANo1GO3pd/giphy.gif" width="900" height="400">
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGoydGk3ZnpxdmJqdm8xdGh2MDJiemF5Z3k1bnBybGFyMWltMWQ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="900" height="400">
 </p>
 </p
 </p>
