@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm YaHi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGoydGk3ZnpxdmJqdm8xdGh2MDJiemF5Z3k1bnBybGFyMWltMWQ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="800" height="500">
+   <img src="https://camo.githubusercontent.com/e5df05a16986dd27bdb677187020a2674dc6632868ff4306acb1c1c597413632/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f42696575544f575f457a3841414141642f72656d2d72657a65726f2e676966" width="800" height="500">
 </p>
 </p
 </p>
